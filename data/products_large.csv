@@ -1,0 +1,26 @@
+product_id,category,price,subscription_eligibility_flag,reorder_frequency,subscription_discount_percentage,product_name
+PROD_0001,Grocery,32.41,False,30,15,Almonds
+PROD_0002,Beauty,12.7,False,90,5,Shampoo
+PROD_0003,Grocery,37.81,False,15,5,Rice
+PROD_0004,Grocery,12.35,False,60,15,Almonds
+PROD_0005,Beauty,22.08,True,30,10,Shampoo
+PROD_0006,Grocery,49.53,True,15,15,Olive Oil
+PROD_0007,Health,33.8,False,60,5,Vitamins
+PROD_0008,Grocery,30.06,True,30,10,Almonds
+PROD_0009,Grocery,35.81,True,30,15,Pasta
+PROD_0010,Grocery,42.93,True,60,15,Rice
+PROD_0011,Health,39.92,True,30,10,Protein Powder
+PROD_0012,Health,15.31,True,15,5,Thermometer
+PROD_0013,Health,6.44,False,60,15,Thermometer
+PROD_0014,Beauty,19.2,True,90,15,Face Wash
+PROD_0015,Health,17.05,False,15,15,Vitamins
+PROD_0016,Grocery,14.49,False,15,5,Rice
+PROD_0017,Health,47.43,False,60,15,Thermometer
+PROD_0018,Health,44.44,False,60,10,Thermometer
+PROD_0019,Grocery,19.16,True,30,10,Pasta
+PROD_0020,Beauty,34.49,True,15,15,Shampoo
+PROD_0021,Health,22.8,False,30,15,First Aid Kit
+PROD_0022,Beauty,46.15,False,15,10,Shampoo
+PROD_0023,Beauty,25.65,True,15,10,Conditioner
+PROD_0024,Beauty,16.92,False,90,15,Moisturizer
+PROD_0025,Grocery,16.1,False,15,10,Pasta
